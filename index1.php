@@ -1,4 +1,4 @@
-<?php?> //ako ima sesia znachi da nqma log in ami log out
+<?php?>
 <!DOCTYPE html>
 <html amp >
 <head>
@@ -23,25 +23,7 @@
   
 </head>
 <body><amp-sidebar id="sidebar" class="cid-rEY9FP73nz" layout="nodisplay" side="right">
-        <div class="builder-sidebar" id="builder-sidebar">
-            <button on="tap:sidebar.close" class="close-sidebar">
-                <span></span>
-                <span></span>
-            </button>
-        
-            
-            <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item dropdown">
-                    <a class="nav-link link dropdown-toggle text-white display-7" data-toggle="dropdown-submenu" aria-expanded="true">
-                        Services</a>
-                    <div class="dropdown-menu">
-                        <a class="dropdown-item text-white display-7" href="page4.html">Web Designer</a><a class="dropdown-item text-white display-7" href="page10.html" aria-expanded="false">Web Developer<br></a><a class="text-white dropdown-item display-7" href="page9.html" aria-expanded="false">Designs</a><a class="text-white dropdown-item display-7" href="page6.html" aria-expanded="false">Offer a Service?</a>
-                        
-                    </div>
-                </li>
-            
-            <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-white-outline display-7" href="login.php">
-                  Log in</a></div>
-      </div>
+     
     </amp-sidebar>
   <section class="menu horizontal-menu cid-rEY9FP73nz" id="menu2-1">      
 
@@ -62,16 +44,7 @@
       </div>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
             
-            <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item dropdown">
-                    <a class="nav-link link dropdown-toggle text-white display-7" data-toggle="dropdown-submenu" aria-expanded="true">
-                        Services</a>
-                    <div class="dropdown-menu">
-                        <a class="dropdown-item text-white display-7" href="page4.html">Web Designer</a><a class="dropdown-item text-white display-7" href="page10.html" aria-expanded="false">Web Developer<br></a><a class="text-white dropdown-item display-7" href="page9.html" aria-expanded="false">Designs</a><a class="text-white dropdown-item display-7" href="page6.html" aria-expanded="false">Offer a Service?</a>
-                        
-                    </div>
-                </li>
-                <li class="nav-item"><a class="nav-link link text-white display-7" href="page2.html">Search users</a></li></ul>
-                <li class="nav-item"><a class="nav-link link text-white display-7" href="page2.html">Edit Profile</a></li></ul>
+            
             <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-white-outline display-7" href="login.php">
                   Log in</a></div>
       </div>
@@ -104,7 +77,7 @@
 <div class="container">
         <div class="mbr-col-sm-12 align-center mbr-white">
             <p class="mbr-text mbr-fonts-style display-7">
-                © Copyright 2019 - Mihaela Yordanova - All Rights Reserved
+                © Copyright 2020 - Mihaela Yordanova - All Rights Reserved
             </p>
         </div>
     </div>
